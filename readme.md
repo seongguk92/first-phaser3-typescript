@@ -1,1 +1,5 @@
-![phaser3-parceljs-template](https://user-images.githubusercontent.com/2236153/71606463-37a0da80-2b2e-11ea-9b5f-5d26ccc84f91.png)
+별먹기 게임
+phaser3 + typescript
+
+참고 url : https://github.com/ourcade/phaser3-parcel-template
+참고 youtube : https://www.youtube.com/watch?v=QXxmSbfR2aY
